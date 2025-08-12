@@ -1,8 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dry-run-only-logo-512.png">
-  <source media="(prefers-color-scheme: light)" srcset="dry-run-only-logo-512.png">
-  <img alt="DRY Run Only" src="dry-run-only-logo-512.png" width="420">
-</picture>
+<p align="center">
+  <img src="dry-run-only-cmd-animated.gif" alt="DRY Run Only Animated Logo" width="600">
+</p>
+
 
 # DRY Run Only 🚦
 **Because sometimes, pressing the big red button is just… too risky.**
