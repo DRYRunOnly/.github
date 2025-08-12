@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dry-run-only-logo-512.png">
   <source media="(prefers-color-scheme: light)" srcset="dry-run-only-logo-512.png">
-  <img alt="DRY Run Only" src="dry-run-only-logo-512.png" width="180">
+  <img alt="DRY Run Only" src="dry-run-only-logo-512.png" width="420">
 </picture>
 
 # DRY Run Only 🚦
